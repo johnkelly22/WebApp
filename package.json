@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/johnkelly22/WebApp/issues"
   },
-  "homepage": "https://github.com/johnkelly22/WebApp#readme"
+  "homepage": "https://github.com/johnkelly22/WebApp#readme",
+  "engines": {
+    "node": "20.11.1"
+  }
 }
